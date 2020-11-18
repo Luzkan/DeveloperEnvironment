@@ -1,4 +1,4 @@
-# Tasklist2 - Bash Scripts (printing out desired stuff)
+# Tasklist2 - Version Control Actions & SVN Functions
 
 ## Presentation
 
